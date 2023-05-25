@@ -1,1 +1,2 @@
 New test file2 to test gitpull
+checking the git fetch cmd before pull request in demogit2.txt file
